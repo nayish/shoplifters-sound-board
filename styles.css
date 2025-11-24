@@ -316,13 +316,13 @@ header h1.blinking {
     }
 
     .buttons-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         gap: 6px;
     }
 
     .sound-button {
         padding: 6px 10px;
-        font-size: 0.8rem;
+        font-size: 0.65rem;
         min-height: 42px;
     }
 }
